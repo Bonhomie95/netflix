@@ -1,6 +1,6 @@
 export default function Home() {
   return <>
-  <h1>
+  <span className="text-8xl font-bold">
   Netflix
-  </h1> </>;
+  </span> </>;
 }
